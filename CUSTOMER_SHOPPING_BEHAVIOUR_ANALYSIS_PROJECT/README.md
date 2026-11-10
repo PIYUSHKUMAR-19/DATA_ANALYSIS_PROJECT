@@ -64,7 +64,7 @@ A high-level snapshot of customer count, total recorded purchase amount, average
 
 <p align="center">
   <a href="executive-overview.png">
-    <img src="assets/executive-overview.png" alt="Customer Shopping Behaviour — Executive Overview Power BI page" width="100%" />
+    <img src="executive-overview.png" alt="Customer Shopping Behaviour — Executive Overview Power BI page" width="100%" />
   </a>
 </p>
 
@@ -76,7 +76,7 @@ Focuses on customer composition through total customers, average age, male/femal
 
 <p align="center">
   <a href="customer-demographics.png">
-    <img src="assets/customer-demographics.png" alt="Customer Shopping Behaviour — Customer Demographics Power BI page" width="100%" />
+    <img src="customer-demographics.png" alt="Customer Shopping Behaviour — Customer Demographics Power BI page" width="100%" />
   </a>
 </p>
 
@@ -88,7 +88,7 @@ Examines the four product categories and 25 product names through total purchase
 
 <p align="center">
   <a href="product-performance.png">
-    <img src="assets/product-performance.png" alt="Customer Shopping Behaviour — Product Performance Power BI page" width="100%" />
+    <img src="product-performance.png" alt="Customer Shopping Behaviour — Product Performance Power BI page" width="100%" />
   </a>
 </p>
 
@@ -100,7 +100,7 @@ Explores discount usage, subscription rate, purchase-frequency labels, payment m
 
 <p align="center">
   <a href="purchasing-behaviour.png">
-    <img src="assets/purchasing-behaviour.png" alt="Customer Shopping Behaviour — Purchasing Behaviour Power BI page" width="100%" />
+    <img src="purchasing-behaviour.png" alt="Customer Shopping Behaviour — Purchasing Behaviour Power BI page" width="100%" />
   </a>
 </p>
 
